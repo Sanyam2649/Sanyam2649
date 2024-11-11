@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sanyam Bansal
 - 👀 I’m interested in Programming and full stack Web Developement
-- 🌱 I’m currently learning .Net Framework
 - 💞️ I’m looking to collaborate on various projects related with web development and python.
 - 📫 Reach me through email: sb.sanyambansal2003@gmail.com
 - 😄 Pronouns: He
