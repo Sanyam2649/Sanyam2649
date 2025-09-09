@@ -36,7 +36,7 @@ I'm a passionate **Full-Stack Web Developer** who loves building dynamic and sca
 ## 🧠 Currently Exploring  
 - 🧠 AWS cloud
 - 🌍 Next Js  
-- ⚙️ DBA
+- ⚙️ AI Agents & Generative AI
 
 ## 🤝 Let's Collaborate!
 I'm always open to collaborating on open-source or freelance projects. Feel free to reach out if you have something exciting in mind!
@@ -45,3 +45,4 @@ I'm always open to collaborating on open-source or freelance projects. Feel free
 😄 **Pronouns:** He/Him  
 
 ---
+
