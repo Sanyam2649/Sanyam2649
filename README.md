@@ -64,8 +64,8 @@ I'm passionate about crafting **scalable web applications** that solve real-worl
 
 <div align="center">
   
-![Sanyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Sanyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanyam2649&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam2649&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
